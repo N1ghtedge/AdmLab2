@@ -14,3 +14,4 @@ echo "Rezervne kopiyuvannya zaversheno."
 date
 #!/Persha zmina
 #!/Druga zmina
+#!/Merged branches
