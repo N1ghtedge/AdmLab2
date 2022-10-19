@@ -12,3 +12,5 @@ tar czf $dest/$archive_file $backup_files
 echo
 echo "Rezervne kopiyuvannya zaversheno."
 date
+#!/Persha zmina
+#!/Druga zmina
